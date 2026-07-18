@@ -1,0 +1,12 @@
+gradio
+groq
+deepgram-sdk
+python-dotenv
+speechrecognition
+pydub
+pyaudio
+sounddevice
+pillow
+numpy
+path
+anthropic
