@@ -1,16 +1,6 @@
-@"
-# Secrets
-.env
-
-# Virtual environments
 .venv/
-venv/
-.aigent/
-
-# Python cache
+.env
 __pycache__/
-.aigent/
-luffy.jpg
-luffy.mp4
-README_backup.md
-"@ | Out-File -FilePath .gitignore -Encoding utf8
+*.pyc
+*.mp3
+*.wav
